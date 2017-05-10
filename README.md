@@ -1,5 +1,8 @@
 # singular-or-plural
 
+[![npm](https://img.shields.io/npm/dw/singular-or-plural.svg)](https://npmjs.com/singular-or-plural)
+[![npm](https://img.shields.io/npm/v/singular-or-plural.svg)](https://npmjs.com/singular-or-plural)
+
 > Select the singular or plural word based on the count.
 
 Follows the following rule: *If it ends with one but not eleven, it's singular*.
@@ -7,7 +10,7 @@ Follows the following rule: *If it ends with one but not eleven, it's singular*.
 ## Install
 
 ```sh
-npm install schas002/singular-or-plural
+npm install singular-or-plural
 ```
 
 ## Usage
