@@ -1,0 +1,8 @@
+{
+  "name": "singular-or-plural",
+  "version": "1.0.0",
+  "main": "singular-or-plural.js",
+  "license": "MIT",
+  "repository": "https://github.com/schas002/singular-or-plural",
+  "author": "Andrew Zyabin"
+}
