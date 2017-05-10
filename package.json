@@ -4,5 +4,23 @@
   "main": "singular-or-plural.js",
   "license": "MIT",
   "repository": "https://github.com/schas002/singular-or-plural",
-  "author": "Andrew Zyabin"
+  "author": "Andrew Zyabin",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "space": 2,
+    "rules": {
+      "quotes": ["error", "double", {
+        "allowTemplateLiterals": true
+      }],
+      "no-var": 0,
+      "no-self-compare": 0,
+      "prefer-arrow-callback": 0
+    }
+  }
 }
